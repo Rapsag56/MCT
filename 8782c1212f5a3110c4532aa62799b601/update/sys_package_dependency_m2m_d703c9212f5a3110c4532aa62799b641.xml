@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">8fc9df83b4232110320f8dc279c804f9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 01:21:38</sys_created_on>
+        <sys_id>d703c9212f5a3110c4532aa62799b641</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="MCT" source="x_744286_mct">8782c1212f5a3110c4532aa62799b601</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 01:21:38</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

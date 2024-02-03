@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="57560da12f5a3110c4532aa62799b670" sys_domain="global" table="x_744286_mct_tabela_ovh_recurso" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>numero_do_contrato</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>fac741a52f5a3110c4532aa62799b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>codigo_do_grupo_de_despesa</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>7ec741a52f5a3110c4532aa62799b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>custo_de_ti</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>fec741a52f5a3110c4532aa62799b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>codigo_recurso</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>72c741a52f5a3110c4532aa62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>f2c741a52f5a3110c4532aa62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>codigo_do_pbms</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>76c741a52f5a3110c4532aa62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_referencia</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>f6c741a52f5a3110c4532aa62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>codigo_do_cargo</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>7ac741a52f5a3110c4532aa62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>codigo_reduzido</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:42:21</sys_created_on>
+            <sys_id>fac741a52f5a3110c4532aa62799b607</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_mct_tabela_ovh_recurso" sys_domain="global" view="Default view">57560da12f5a3110c4532aa62799b670</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:42:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_744286_mct_tabela_ovh_recurso</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:36:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57560da12f5a3110c4532aa62799b670</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744286_mct_tabela_ovh_recurso</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MCT" source="x_744286_mct">8782c1212f5a3110c4532aa62799b601</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MCT">8782c1212f5a3110c4532aa62799b601</sys_scope>
+            <sys_update_name>sys_ui_section_57560da12f5a3110c4532aa62799b670</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:36:06</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

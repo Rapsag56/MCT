@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3b6441a12f5a3110c4532aa62799b6b3" label="tabela OVH recurso" max_length="40" name="x_744286_mct_tabela_ovh_recurso" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Código do Cargo" max_length="40" name="codigo_do_cargo" type="string"/>
+        <element label="Código do Grupo de Despesa" max_length="40" name="codigo_do_grupo_de_despesa" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Código do PBMS" max_length="40" name="codigo_do_pbms" type="string"/>
+        <element label="Código Grupo de Despesa Destino" max_length="40" name="codigo_grupo_de_despesa_destino" type="integer"/>
+        <element label="Código Recurso" max_length="40" name="codigo_recurso" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Código Reduzido" max_length="40" name="codigo_reduzido" type="string"/>
+        <element attributes="omit_sys_original=true" label="Custo de TI" max_length="20" name="custo_de_ti" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Data Referência" max_length="40" name="data_referencia" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Número do Contrato" max_length="40" name="numero_do_contrato" type="string"/>
+        <element label="Percentual" max_length="40" name="percentual" type="string"/>
+    </element>
+</database>

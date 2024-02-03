@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Mct 1699060896475</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_744286_mct_1699060896475</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 01:21:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>be138d212f5a3110c4532aa62799b631</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mct 1699060896475</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MCT" source="x_744286_mct">8782c1212f5a3110c4532aa62799b601</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCT">8782c1212f5a3110c4532aa62799b601</sys_scope>
+        <sys_update_name>sys_app_module_be138d212f5a3110c4532aa62799b631</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 01:21:52</sys_updated_on>
+        <timeline_page/>
+        <title>Mct 1699060896475</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MCT">8782c1212f5a3110c4532aa62799b601</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_app_module_be138d212f5a3110c4532aa62799b631</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Mct 1699060896475</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_744286_mct_1699060896475</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-04 01:21:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>be138d212f5a3110c4532aa62799b631</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Mct 1699060896475</sys_name><sys_overrides/><sys_package display_value="MCT" source="x_744286_mct">8782c1212f5a3110c4532aa62799b601</sys_package><sys_policy/><sys_scope display_value="MCT">8782c1212f5a3110c4532aa62799b601</sys_scope><sys_update_name>sys_app_module_be138d212f5a3110c4532aa62799b631</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-04 01:21:52</sys_updated_on><timeline_page/><title>Mct 1699060896475</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1378421741</payload_hash>
+        <record_name>Mct 1699060896475</record_name>
+        <reverted_from/>
+        <source>0b82c1212f5a3110c4532aa62799b603</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 01:21:53</sys_created_on>
+        <sys_id>be138d212f5a3110c4532aa62799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b97ec137a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 01:21:53</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f2138d21ef5a311070fd67c1260e0834</update_guid>
+        <update_guid_history>f2138d21ef5a311070fd67c1260e0834:-1378421741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Mct 1699060896475">fc9489a12f5a3110c4532aa62799b628</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 01:28:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>17d04daee4624c3082b28452c5dd1100</sys_id>
+        <sys_metadata>be138d212f5a3110c4532aa62799b631</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mct 1699060896475</sys_name>
+        <sys_package display_value="MCT" source="x_744286_mct">8782c1212f5a3110c4532aa62799b601</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MCT">8782c1212f5a3110c4532aa62799b601</sys_scope>
+        <sys_scope_delete display_value="">57622b85236048429f395e92af658581</sys_scope_delete>
+        <sys_update_name>sys_app_module_be138d212f5a3110c4532aa62799b631</sys_update_name>
+        <sys_update_version display_value="sys_app_module_be138d212f5a3110c4532aa62799b631">be138d212f5a3110c4532aa62799b634</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 01:28:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

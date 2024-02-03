@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description/>
+        <field>percentual</field>
+        <global>false</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>OnChange Percentual</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    var cod_cargo = g_form.getDisplayValue('codigo_do_cargo');
+    var cod_gr_desp = g_form.getDisplayValue('codigo_do_grupo_de_despesa');
+    var numeroContrato = g_form.getDisplayValue('numero_do_contrato');
+    var cod_recurso = g_form.getDisplayValue('codigo_recurso');
+    var cod_pbms = g_form.getDisplayValue('codigo_do_pbms');
+    var currentPercentual = parseFloat(g_form.getValue('percentual'));
+
+    var ga = new GlideAjax('SomaPercentual');
+    ga.addParam('sysparm_name', 'verificaSomaPercentual');
+    ga.addParam('sysparm_cod_cargo', cod_cargo);
+    ga.addParam('sysparm_cod_gr_desp', cod_gr_desp);
+    ga.addParam('sysparm_numero_contrato', numeroContrato);
+    ga.addParam('sysparm_cod_recurso', cod_recurso);
+    ga.addParam('sysparm_cod_pbms', cod_pbms);
+    ga.addParam('sysparm_current_percentual', currentPercentual);  // Adiciona o percentual atual como parâmetro
+
+    ga.getXML(processaResposta);
+
+    function processaResposta(response) {
+        var answer = response.responseXML.documentElement.getAttribute("answer");
+        var isUpdateAllowed = response.responseXML.documentElement.getAttribute("isUpdateAllowed");
+
+        if (isUpdateAllowed === 'false') {
+            g_form.clearValue('percentual');
+            g_form.addErrorMessage("A soma dos percentuais ultrapassa 100%. Troque o valor do campo.");
+        } else {
+            g_form.addInfoMessage('A soma dos percentuais está dentro do limite.');
+        }
+    }
+}
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-04 01:52:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73880da52f5a3110c4532aa62799b651</sys_id>
+        <sys_mod_count>32</sys_mod_count>
+        <sys_name>OnChange Percentual</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MCT" source="x_744286_mct">8782c1212f5a3110c4532aa62799b601</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MCT">8782c1212f5a3110c4532aa62799b601</sys_scope>
+        <sys_update_name>sys_script_client_73880da52f5a3110c4532aa62799b651</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-04 04:43:41</sys_updated_on>
+        <table>x_744286_mct_tabela_ovh_recurso</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

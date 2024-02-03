@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="custo_de_ti" label="Custo de TI" language="en" table="x_744286_mct_tabela_ovh_recurso">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>custo_de_ti</element>
+            <help/>
+            <hint/>
+            <label>Custo de TI</label>
+            <language>en</language>
+            <name>x_744286_mct_tabela_ovh_recurso</name>
+            <plural>Custo de TIs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-04 01:27:42</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Custo de TI</sys_name>
+            <sys_package display_value="MCT" source="x_744286_mct">8782c1212f5a3110c4532aa62799b601</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MCT">8782c1212f5a3110c4532aa62799b601</sys_scope>
+            <sys_update_name>sys_documentation_x_744286_mct_tabela_ovh_recurso_custo_de_ti_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-04 01:27:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
